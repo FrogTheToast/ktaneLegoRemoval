@@ -1,0 +1,8 @@
+{
+  "name": "frogLegoRemoval",
+  "references": [
+    "GameProxies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

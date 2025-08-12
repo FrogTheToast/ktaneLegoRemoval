@@ -1,0 +1,1 @@
+LEGO Removal regular module for KTaNE

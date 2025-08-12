@@ -1,0 +1,10 @@
+{
+  "name": "frogLegoRemoval-Editor",
+  "references": [
+    "frogLegoRemoval"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
