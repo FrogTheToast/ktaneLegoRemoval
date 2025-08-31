@@ -1,0 +1,9 @@
+{
+	"RiskyStructureGeneration": false,
+	"note": "False: Upon failure of placing a valid brick, skip generation for that brick. Structure may not fall within 42-70 range, but will be better for performance. Default.",
+	"note": "True: Keeps trying to generate a brick until it's a valid placement. WILL fall within 42-70, but prone to slow generation / crashes.",
+	
+	"ColorOrderExcluded": false,
+	"note": "If set to true, will remove the color-based LEGO order from gameplay. I tried my best to make it colorblind-friendly by default, but if it's way too hard just set this to true.",
+	"note": "When calculating the Base Sequence, mod digits by 3 instead of 4, and ignore the color order."
+}

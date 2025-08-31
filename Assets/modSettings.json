@@ -1,0 +1,5 @@
+{	
+	"ColorOrderExcluded": false,
+	"note": "If set to true, will remove the color-based LEGO order from gameplay. I tried my best to make it colorblind-friendly by default, but if it's way too hard just set this to true.",
+	"note": "When calculating the Base Sequence, mod digits by 3 instead of 4, and ignore the color order."
+}
